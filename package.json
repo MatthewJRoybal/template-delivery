@@ -1,0 +1,20 @@
+{
+  "name": "delivery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+		"update": "git add . && git commit -m \"Configuration Update\" && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewJRoybal/template-delivery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthewJRoybal/template-delivery/issues"
+  },
+  "homepage": "https://github.com/MatthewJRoybal/template-delivery#readme"
+}
